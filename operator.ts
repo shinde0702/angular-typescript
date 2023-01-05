@@ -14,3 +14,11 @@ console.log(num6)
 
 --num6;
 console.log(num6)
+
+let num1:number=10;
+let num2:number=2;
+
+let mult:number;
+mult=num1*num2
+console.log(mult)
+
